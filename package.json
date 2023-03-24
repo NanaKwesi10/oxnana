@@ -2,7 +2,7 @@
   "name": "oxnana",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://brumnet.github.io/",
+  "homepage": "https://brumnet.github.io/oxnana/",
   "dependencies": {
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "react": "^18.1.0",

@@ -1,5 +1,5 @@
 import React, {useState, } from "react"//useEffect
-import {BrowserRouter as Router, Route, Switch, Redirect } from "react-router-dom";
+import { HashRouter  as Router, Route, Switch, Redirect } from "react-router-dom";
 //home
 import {NavTop, NavDown,ToolMenu,Section1,Menu,Section2,Section3,Section4,Search, Footer, FooterDown} from './components/home/renders' 
 import logo from './components/home/images/oxlogo.jpg'
