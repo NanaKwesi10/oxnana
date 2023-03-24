@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac7de49e.css",
-    "main.js": "/static/js/main.d105055f.js",
-    "static/media/image_27.jpg": "/static/media/image_27.7e3ce5890d9f34ef4cb5.jpg",
-    "static/media/image_25.jpg": "/static/media/image_25.f8e382b78e9e9e227173.jpg",
-    "static/media/image_16.jpg": "/static/media/image_16.3477345cd2d105e1a7e6.jpg",
-    "static/media/image_20.jpg": "/static/media/image_20.d788dacc6419f8a4ade2.jpg",
-    "static/media/image_23.jpg": "/static/media/image_23.3bbaa7c7e9afcb52bdf9.jpg",
-    "static/media/image_22.jpg": "/static/media/image_22.601f4e3150b4ee26e479.jpg",
-    "static/media/oxlogo.jpg": "/static/media/oxlogo.fb0bb9fc6ca09a1b58fc.jpg",
-    "static/media/image_17.jpg": "/static/media/image_17.56ac9a394bc658f00559.jpg",
-    "static/media/image_19.jpg": "/static/media/image_19.16ae2471afd27a058342.jpg",
-    "static/media/image_26.jpg": "/static/media/image_26.c3200061b09c843cd1cc.jpg",
-    "static/media/image_18.jpg": "/static/media/image_18.bc08b3381e24308b987c.jpg",
-    "static/media/image_24.jpg": "/static/media/image_24.830d1ef69ee404a6440b.jpg",
-    "static/media/image_21.jpg": "/static/media/image_21.85e39ec4a2412441028f.jpg",
-    "index.html": "/index.html",
-    "main.ac7de49e.css.map": "/static/css/main.ac7de49e.css.map",
-    "main.d105055f.js.map": "/static/js/main.d105055f.js.map"
+    "main.css": "/oxnana/static/css/main.27abb366.css",
+    "main.js": "/oxnana/static/js/main.67f8ee0e.js",
+    "static/media/image_27.jpg": "/oxnana/static/media/image_27.7e3ce5890d9f34ef4cb5.jpg",
+    "static/media/image_25.jpg": "/oxnana/static/media/image_25.f8e382b78e9e9e227173.jpg",
+    "static/media/image_16.jpg": "/oxnana/static/media/image_16.3477345cd2d105e1a7e6.jpg",
+    "static/media/image_20.jpg": "/oxnana/static/media/image_20.d788dacc6419f8a4ade2.jpg",
+    "static/media/image_23.jpg": "/oxnana/static/media/image_23.3bbaa7c7e9afcb52bdf9.jpg",
+    "static/media/image_22.jpg": "/oxnana/static/media/image_22.601f4e3150b4ee26e479.jpg",
+    "static/media/oxlogo.jpg": "/oxnana/static/media/oxlogo.fb0bb9fc6ca09a1b58fc.jpg",
+    "static/media/image_17.jpg": "/oxnana/static/media/image_17.56ac9a394bc658f00559.jpg",
+    "static/media/image_19.jpg": "/oxnana/static/media/image_19.16ae2471afd27a058342.jpg",
+    "static/media/image_26.jpg": "/oxnana/static/media/image_26.c3200061b09c843cd1cc.jpg",
+    "static/media/image_18.jpg": "/oxnana/static/media/image_18.bc08b3381e24308b987c.jpg",
+    "static/media/image_24.jpg": "/oxnana/static/media/image_24.830d1ef69ee404a6440b.jpg",
+    "static/media/image_21.jpg": "/oxnana/static/media/image_21.85e39ec4a2412441028f.jpg",
+    "index.html": "/oxnana/index.html",
+    "main.27abb366.css.map": "/oxnana/static/css/main.27abb366.css.map",
+    "main.67f8ee0e.js.map": "/oxnana/static/js/main.67f8ee0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac7de49e.css",
-    "static/js/main.d105055f.js"
+    "static/css/main.27abb366.css",
+    "static/js/main.67f8ee0e.js"
   ]
 }
