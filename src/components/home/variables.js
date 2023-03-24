@@ -5,7 +5,7 @@ const homepage = {}
 
 homepage.toolbar = {
     images:['image_0','image_1','image_2','image_3','image_4'],//,'image_5','image_6','image_7'
-    label:["Agriculture", "Lawn & Garden", "Construction", "Landscaping & Grounds Care", "Golf & Sports Turf","Forestry & Logging", "Engines & Drivetrain","Government & Military Sales"]
+    label:["Tractors", "Combine Harvester", "Implement", "Irrigation", "Poultry","Piggery", "Agriculture","Government & Military Sales"]
 }
 
 homepage.pmenu = {
