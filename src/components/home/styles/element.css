@@ -1,0 +1,306 @@
+*{
+  margin: 0;
+  padding: 0;
+  /*font-family: Tahoma,  Verdana, Geneva, sans-serif;*/
+}
+#nav-top{
+  /*border-bottom: 1px solid rgb(31, 28, 28);*/
+  height: 50%;
+}
+
+
+#nav-top div{
+  margin-top: 3px;
+  display: inline-block;
+  position: relative;
+}
+
+#nav-down{  
+  /*border-left: 5px solid rgb(31, 28, 28);*/
+  margin-left: 200px ;
+}
+
+#nav-down a:hover{
+  text-decoration: none;
+}
+
+
+#nav-down li a, #menu li a{
+  display: inline-block;
+  text-decoration: none;
+}
+
+#nav-down li a{
+  display: inline-block;
+  text-align: center;
+  padding: 16px;
+  color: black;
+}
+
+#menu li a{
+  display: inline-block;
+  color: white;
+  text-align: left;
+  padding: 10px;
+  text-decoration: none;
+}
+
+#nav-down li a:hover{
+  display: auto;
+  text-decoration: underline;
+}
+
+
+#nav-admin, #nav-menu{
+  border-left:  1px solid rgb(31, 28, 28);
+  padding-left: 30px;
+}
+
+#nav-search{
+  position: relative;
+  padding-top: 3px;
+}
+
+#nav-search input{
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+#search-but{
+  min-width: 40px;
+  height: 19.5px;
+  position: absolute;
+  top: 3px;
+  background-color:white
+}
+
+.ic{
+position: absolute;
+top: 2px
+}
+
+.il{
+  font-size: small;
+  margin-left: 5px;
+}
+
+#nav-down ul, #menu ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#nav-search, #nav-search:active {
+  border: none;
+}
+
+#tool-types img{
+  transition: width 2s linear 1s;
+}
+
+#tool-types img:hover {
+  width: 120%;
+}
+
+#menu ul{
+  background-color: black;
+}
+
+li {
+  float: left;
+  min-width: 100px;
+}
+
+#menuli{
+  position: relative;
+  display: inline-block;
+  width: 20%;
+}
+
+#menuli img{
+  padding-top: 3%;
+}
+
+#plabel{
+  position: absolute;
+  top: 5px;
+  left: 24px;
+  font-size: small;
+}
+
+#imageSec{
+    background-image: url("image_16.jpg");
+    height: fit-content;
+}
+
+#overlay{
+  display: auto;
+  position: relative;
+  /*background: linear-gradient(135deg, rgb(0, 0, 0) 0%, rgba(22, 216, 158, 0.621) 25%, rgba(0,212,255,0) 80%);*/
+}
+
+#secWrite{  
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color:rgba(0, 0, 0, 0.377);
+  /*background: linear-gradient(135deg, rgb(0, 0, 0) 0%, rgba(127, 255, 212, 0.36) 5%, rgba(0,212,255,0) 50%);*/
+  padding-left: 30px;
+  padding-top: 150px;
+  width: 100%;
+  height: 100%;
+}
+
+#secWrite p{
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+}
+
+#secWrite button{
+  display: auto;
+  border-color: white;
+  background-color: rgb(255, 255, 255);
+  color: red;
+  padding: 10px 25px;
+  margin-top: 45px;
+  margin-bottom: 50px;
+  border-radius: 5px;
+
+}
+
+#section2, #section3{
+  position: relative;
+  width: 45%;
+  float: left;
+  margin: 2%;
+}
+
+#text2 a{
+  padding-top: 50px;
+  background-color: transparent;
+  border: none;
+  color: white;
+}
+
+#section a:hover{
+  text-decoration: overline;
+}
+
+#section3 img{
+  object-fit: cover;
+}
+
+#text2{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  color:white;
+  text-shadow: 2px 2px #1e1d1d;
+}
+
+#text3{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 40%;
+  height: 99%;
+  background-color: rgba(14, 154, 79, 0.347);
+}
+
+#text3 div{ 
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 90%;
+  transform: translate(-50%, -50%);
+}
+
+#text3 button{
+  padding: 10px 30px;
+  margin-top: 50px;
+  background-color: transparent;
+  color: yellow;
+  border-color: yellow;
+}
+
+#footerdown button{
+  padding: 10px 30px;
+  margin-top: 50px;
+  background-color: transparent;
+  color: rgb(2, 2, 2);
+  border-color: yellow;
+}
+
+
+#section4{
+  width: 25%;
+  float: left;
+  margin-left: 6%;
+  background-color: rgb(232, 232, 232);
+  padding: 40px 10px 40px 10px;
+}
+
+#section4 #cont4{
+  width: 80%;
+  margin-left: 10%
+}
+
+#section4 button{
+  background-color: transparent;
+  border: none;
+}
+
+#section4 button span{
+  font-size: small;
+  margin-right: 15px;
+}
+
+
+#cont4 img{
+  width: 100%;
+}
+
+#text4{
+  margin-top: 20px;
+  min-height: 250px
+}
+
+#search{
+  position: relative;
+}
+
+
+#search select{
+  width: 20%;
+  height: 50px;
+  background-color: rgba(0, 128, 0, 0.685);
+  padding: 0 5%;
+  margin-right: 0.3%;
+  color: white;
+}
+
+
+#search input:first-of-type{
+  width: 65%;
+  height: 50px;
+  border-radius: 0;
+}
+
+#search select div{
+  padding: 200px;
+}
+
+#search span{
+  margin-left: 10px;
+}
+
+#search button{
+  width: 8%;
+  height: 50px;
+  position: absolute;
+  top: 53%;
+  border-radius: 0px 5px 5px 0px;
+  background-color: rgba(0, 128, 0, 0.462);
+}
